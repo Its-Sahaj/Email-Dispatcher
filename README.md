@@ -1,6 +1,4 @@
 # Email-Dispatcher
-This Project was something I started working on the curiosity and interest to see if we could send emails using independent of applications provided to masses.
-
 I created the email-sending project because it's a practical demonstration of how Python can be used to automate tasks that involve sending emails, which is a common real-world use case. This type of project introduces important concepts like:
 
 Interacting with External Services (SMTP): It shows how to connect to an email server using Python to send messages, which is useful in many automated systems, like sending notifications, reports, or alerts.
