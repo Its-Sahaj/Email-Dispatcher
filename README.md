@@ -13,4 +13,3 @@ Overall, it's a simple yet powerful example of how Python can streamline communi
 ![Screenshot 2024-10-21 233303](https://github.com/user-attachments/assets/1a148dee-9ce8-4f29-af2c-d722697577f9)
 ![Screenshot 2024-10-21 221918](https://github.com/user-attachments/assets/bd55e046-de8a-4416-8da2-a9dc3acfd18a)
 ![Screenshot 2024-10-21 235426](https://github.com/user-attachments/assets/e8833e08-c9d5-4762-9ae0-88e4d0043ebd)
-![Screenshot 2024-10-21 233303](https://github.com/user-attachments/assets/1a148dee-9ce8-4f29-af2c-d722697577f9)
